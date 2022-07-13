@@ -1,0 +1,16 @@
+C:\Users\mynig\OneDrive\Desktop\CodingPJ\Cs-Learning\BoardGameRandom\BoardGameTool\BoardGameTool\bin\Debug\net5.0\BoardGameTool.exe
+C:\Users\mynig\OneDrive\Desktop\CodingPJ\Cs-Learning\BoardGameRandom\BoardGameTool\BoardGameTool\bin\Debug\net5.0\BoardGameTool.deps.json
+C:\Users\mynig\OneDrive\Desktop\CodingPJ\Cs-Learning\BoardGameRandom\BoardGameTool\BoardGameTool\bin\Debug\net5.0\BoardGameTool.runtimeconfig.json
+C:\Users\mynig\OneDrive\Desktop\CodingPJ\Cs-Learning\BoardGameRandom\BoardGameTool\BoardGameTool\bin\Debug\net5.0\BoardGameTool.runtimeconfig.dev.json
+C:\Users\mynig\OneDrive\Desktop\CodingPJ\Cs-Learning\BoardGameRandom\BoardGameTool\BoardGameTool\bin\Debug\net5.0\BoardGameTool.dll
+C:\Users\mynig\OneDrive\Desktop\CodingPJ\Cs-Learning\BoardGameRandom\BoardGameTool\BoardGameTool\bin\Debug\net5.0\ref\BoardGameTool.dll
+C:\Users\mynig\OneDrive\Desktop\CodingPJ\Cs-Learning\BoardGameRandom\BoardGameTool\BoardGameTool\bin\Debug\net5.0\BoardGameTool.pdb
+C:\Users\mynig\OneDrive\Desktop\CodingPJ\Cs-Learning\BoardGameRandom\BoardGameTool\BoardGameTool\obj\Debug\net5.0\BoardGameTool.csproj.AssemblyReference.cache
+C:\Users\mynig\OneDrive\Desktop\CodingPJ\Cs-Learning\BoardGameRandom\BoardGameTool\BoardGameTool\obj\Debug\net5.0\BoardGameTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mynig\OneDrive\Desktop\CodingPJ\Cs-Learning\BoardGameRandom\BoardGameTool\BoardGameTool\obj\Debug\net5.0\BoardGameTool.AssemblyInfoInputs.cache
+C:\Users\mynig\OneDrive\Desktop\CodingPJ\Cs-Learning\BoardGameRandom\BoardGameTool\BoardGameTool\obj\Debug\net5.0\BoardGameTool.AssemblyInfo.cs
+C:\Users\mynig\OneDrive\Desktop\CodingPJ\Cs-Learning\BoardGameRandom\BoardGameTool\BoardGameTool\obj\Debug\net5.0\BoardGameTool.csproj.CoreCompileInputs.cache
+C:\Users\mynig\OneDrive\Desktop\CodingPJ\Cs-Learning\BoardGameRandom\BoardGameTool\BoardGameTool\obj\Debug\net5.0\BoardGameTool.dll
+C:\Users\mynig\OneDrive\Desktop\CodingPJ\Cs-Learning\BoardGameRandom\BoardGameTool\BoardGameTool\obj\Debug\net5.0\ref\BoardGameTool.dll
+C:\Users\mynig\OneDrive\Desktop\CodingPJ\Cs-Learning\BoardGameRandom\BoardGameTool\BoardGameTool\obj\Debug\net5.0\BoardGameTool.pdb
+C:\Users\mynig\OneDrive\Desktop\CodingPJ\Cs-Learning\BoardGameRandom\BoardGameTool\BoardGameTool\obj\Debug\net5.0\BoardGameTool.genruntimeconfig.cache
