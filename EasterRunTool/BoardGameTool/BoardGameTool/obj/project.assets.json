@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mynig\\OneDrive\\Desktop\\CodingPJ\\Cs-Learning\\BoardGameRandom\\BoardGameTool\\BoardGameTool\\BoardGameTool.csproj",
+      "projectUniqueName": "C:\\CodingPJ\\Cs-Learning\\EasterRunTool\\BoardGameTool\\BoardGameTool\\BoardGameTool.csproj",
       "projectName": "BoardGameTool",
-      "projectPath": "C:\\Users\\mynig\\OneDrive\\Desktop\\CodingPJ\\Cs-Learning\\BoardGameRandom\\BoardGameTool\\BoardGameTool\\BoardGameTool.csproj",
+      "projectPath": "C:\\CodingPJ\\Cs-Learning\\EasterRunTool\\BoardGameTool\\BoardGameTool\\BoardGameTool.csproj",
       "packagesPath": "C:\\Users\\mynig\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mynig\\OneDrive\\Desktop\\CodingPJ\\Cs-Learning\\BoardGameRandom\\BoardGameTool\\BoardGameTool\\obj\\",
+      "outputPath": "C:\\CodingPJ\\Cs-Learning\\EasterRunTool\\BoardGameTool\\BoardGameTool\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mynig\\AppData\\Roaming\\NuGet\\NuGet.Config"

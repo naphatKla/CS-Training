@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mynig\\OneDrive\\Desktop\\CodingPJ\\Cs-Learning\\Borntodev_Exercise\\Exercise\\Exercise\\Exercise.csproj",
+      "projectUniqueName": "C:\\CodingPJ\\Cs-Learning\\Borntodev_Exercise\\Exercise\\Exercise\\Exercise.csproj",
       "projectName": "Exercise",
-      "projectPath": "C:\\Users\\mynig\\OneDrive\\Desktop\\CodingPJ\\Cs-Learning\\Borntodev_Exercise\\Exercise\\Exercise\\Exercise.csproj",
+      "projectPath": "C:\\CodingPJ\\Cs-Learning\\Borntodev_Exercise\\Exercise\\Exercise\\Exercise.csproj",
       "packagesPath": "C:\\Users\\mynig\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mynig\\OneDrive\\Desktop\\CodingPJ\\Cs-Learning\\Borntodev_Exercise\\Exercise\\Exercise\\obj\\",
+      "outputPath": "C:\\CodingPJ\\Cs-Learning\\Borntodev_Exercise\\Exercise\\Exercise\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mynig\\AppData\\Roaming\\NuGet\\NuGet.Config"
