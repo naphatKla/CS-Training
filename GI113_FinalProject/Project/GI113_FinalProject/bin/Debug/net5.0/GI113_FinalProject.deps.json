@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GI113_FinalProject/1.0.0": {
+        "runtime": {
+          "GI113_FinalProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GI113_FinalProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

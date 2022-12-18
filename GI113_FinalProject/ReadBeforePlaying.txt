@@ -1,0 +1,13 @@
+==> คำแนะนำก่อนเล่น <==
+
+
+1)  หากเปิดเกมไม่ได้ ให้ลง .net 5.0  เพื่อเล่น
+
+2) หากใช้ Window 11 โปรด  Run ไฟล์ .EXE  โดยใช้  "Window Console Host" แทน " Window Terminal"
+
+	1.1) วิธี run โดยใช้ Window Console Host คือเปิด Terminal -> Setting -> Default terminal application
+		เลือกเป็น Window Console Host
+
+3)   เพื่อประสบการณ์เล่นที่ดีที่สุด โปรดอย่าปรับเปลี่ยนขนาดของหน้าจอ Console เพราะอาจจะทำให้ภาพที่ปริ้นออกมาผิดเพี้ยนได้
+
+4)  หากกลัวนักกล้ามไม่ควรเล่น 55555555+
